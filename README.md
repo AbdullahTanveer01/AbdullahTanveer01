@@ -31,7 +31,7 @@
 <a href="https://twitter.com/killermojo85">
 <img src="https://img.shields.io/twitter/follow/Schleidens_dev?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
-<a href="[https://instagram.com/schleidens.dev](https://www.instagram.com/abdullah_wastaken/?next=%2F)">
+<a href="https://www.instagram.com/abdullah_wastaken/?next=%2F">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href=https://www.linkedin.com/in/abdullah-tanveer-/">
