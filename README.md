@@ -13,7 +13,7 @@
   ## About me &#128513;
   <p>
   <b>
-  I am Schleidens a lover of technology &#128525; passionate about front end development, I work on my projects with Vue/Nuxt a front framework that I really like.
+  I am Abdullah a lover of technology &#128525; passionate about DevOps and Machine Learning, I work on my projects with Python primarily.
   I'm currently learning reactjs and nodejs (wooaaahh fullstack JS &#128526;).
   i like to learn new technology and update myself. i also like to contribute in open sources projects
 
@@ -28,20 +28,14 @@
 <br>
 
 ## Keep in touch with me 😊
-<a href="https://twitter.com/schleidens_dev">
+<a href="https://twitter.com/killermojo85">
 <img src="https://img.shields.io/twitter/follow/Schleidens_dev?color=blue&label=follow&logo=twitter&logoColor=white&style=for-the-badge" />
 </a>
-<a href="https://instagram.com/schleidens.dev">
+<a href="[https://instagram.com/schleidens.dev](https://www.instagram.com/abdullah_wastaken/?next=%2F)">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/alectineschleidens">
+<a href=https://www.linkedin.com/in/abdullah-tanveer-/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://facebook.com/elhermano.dejesus">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
-<a href="https://dev.to/schleidens">
-<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
 </a>
 <a href="https://discord.gg/fAuyjtSR">
   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
@@ -59,9 +53,7 @@
 <br />
 
 
-Credit: [Schleidens.Dev](https://github.com/Schleidens)
 
-Last Edited on: 27/11/2022### Hi there 👋
 
 <!--
 **AbdullahTanveer01/AbdullahTanveer01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
