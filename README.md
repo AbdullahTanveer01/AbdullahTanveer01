@@ -4,7 +4,7 @@
 **Enthusiast DevOps and ML Engineer** 
 <br>
 <br>
-<img src="https://img.shields.io/badge/terraform-00C58E?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/terraform-00C58E?style=for-the-badge&logo=terraform&logoColor=white"/> <img src="https://img.shields.io/badge/docker-35495E?style=for-the-badge&logo=docker&logoColor=4FC08D"/> <img src="https://img.shields.io/badge/kubernetes-20232A?style=for-the-badge&logo=kubernetes&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/python-43853D?style=for-the-badge&logo=python&logoColor=white" />
 <br>
 
 
