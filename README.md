@@ -22,8 +22,8 @@
   </b>
   </p>
 
-- 🔭 I’m currently Hacking with ReactJs/NodeJs/Express/TS
-- 🌱 I’m currently learning ReactJS && Node/express && TS
+- 🔭 I’m currently Pursuing DevOps professionally.
+- 🌱 I’m also learning about NLP and Computer Vision.
 
 <br>
 
